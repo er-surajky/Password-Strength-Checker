@@ -161,15 +161,6 @@ password-strength-checker/
 
 *Note: Adjust the filenames above if your actual repository uses a different structure.*
 
----
-
-## 🌐 Live Demo
-
-Try the application:
-
-👉 https://mukulgrover.github.io/password-strength-checker/
-
----
 
 ## 🧪 Testing and Validation
 
